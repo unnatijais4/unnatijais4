@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/#inbox">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/unnati-jaiswal-8b326b1a2/" target="_blank">
