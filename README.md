@@ -25,9 +25,9 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/unnati-jaiswal-8b326b1a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /a>
      <a href="leetcode.com/u/unnati004" target="_blank">
-    <img src="(https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2022/11/leetcode-logo-768x186.png&nocache=1)" target="_blank" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /a>
 
 </div>
 
