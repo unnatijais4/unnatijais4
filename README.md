@@ -26,7 +26,7 @@
   </a>
   <a href="https://www.linkedin.com/in/unnati-jaiswal-8b326b1a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /a>
-     <a href="leetcode.com/u/unnati004" target="_blank">
+     <a href="https://leetcode.com/u/unnati004/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /a>
 
 </div>
